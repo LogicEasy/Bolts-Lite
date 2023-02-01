@@ -1,0 +1,13 @@
+{
+    "name": "com.funitry.rebolt",
+    "version": "2.0.1",
+    "description": "",
+    "displayName": "ReBolt - Visual Scripting",
+    "unity": "2021.3",
+    "dependencies": {
+        "com.unity.addressables": "1.19.19",
+        "com.unity.mathematics": "1.2.6",
+        "com.unity.nuget.newtonsoft-json": "3.0.2",
+        "com.unity.editorcoroutines": "1.0.0"
+    }
+}
